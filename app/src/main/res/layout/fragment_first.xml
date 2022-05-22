@@ -11,7 +11,7 @@
        android:id="@+id/tv_title"
        android:layout_width="wrap_content"
        android:layout_height="wrap_content"
-       android:text="Danh sách khoá học"
+       android:text="Todo List"
        android:textAppearance="@style/TextAppearanceTitlePrimary"
        android:textSize="22sp"
        app:layout_constraintEnd_toEndOf="parent"
